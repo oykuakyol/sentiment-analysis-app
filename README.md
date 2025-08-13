@@ -1,2 +1,9 @@
-# sentiment-analysis-app
-A simple AI-powered sentiment analysis app using Hugging Face Transformers and Python.
+# Sentiment Analysis App
+
+This project performs sentiment analysis of given text.
+
+It uses the `distilbert` model from the Transformers library to determine whether the text is positive, negative, or neutral.
+
+## Usage
+```bash
+python app.py
